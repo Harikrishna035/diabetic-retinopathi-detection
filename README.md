@@ -1,1 +1,1 @@
-# diabetic-retinopathi-detection
+# diabetic-retinopathy-detection
